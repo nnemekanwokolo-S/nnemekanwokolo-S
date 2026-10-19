@@ -1,17 +1,14 @@
-### Hey there, I'm Simon V 👋 
+<h1 align="center">Hi there, I'm Simon V 👋</h1>
+<p align="center"><em>Architecting autonomous systems & eliminating digital friction through AI.</em></p>
 
-> 🤖 **System Status:** `ONLINE` | **Primary Directive:** Eliminating boring manual tasks with AI & code.
+---
 
-```javascript
-const simonV = {
-    focus: ["AI Workflows", "APIs", "Webhooks", "Web Development"],
-    mission: "Turning tedious manual processes into seamless automation magic",
-    currentBuild: "Scaling smarter systems 24/7",
-    status: "Always experimenting ⚡"
-};
-
-function runAutomation() {
-    return "Saving businesses time, one webhook at a time!";
+### ⚡ The Blueprint
+```json
+{
+  "engineer": "Simon V",
+  "focus": ["AI Workflows", "Intelligent Automation", "API Architecture"],
+  "mission": "Turning repetitive manual processes into self-running systems",
+  "stack": ["Python", "Node.js", "REST APIs", "LLM Integration"],
+  "status": "Compiling smarter solutions 24/7 🚀"
 }
-
-console.log(runAutomation());
