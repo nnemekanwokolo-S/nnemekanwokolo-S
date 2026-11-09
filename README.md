@@ -1,4 +1,4 @@
-# Hi there, I'm Nnemeka Nwokolo 👋
+# Hi there, I'm Nnemeka Nwokolo 👋 ( Simon V)
 
 ## Cloud Security | Security Automation | Azure | AWS | Python
 
@@ -76,7 +76,7 @@ Building practical cloud security labs and automation solutions that demonstrate
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/nnemekanwokolo
+- LinkedIn: https://www.linkedin.com/in/nnemekanwokolo/
 - Facebook: https://www.facebook.com/p/Nnemeka-Nwokolo-61595260564965
 
 ---
