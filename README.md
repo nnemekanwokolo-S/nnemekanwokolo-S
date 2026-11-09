@@ -1,16 +1,1 @@
-### Hi there, I'm Simon V 👋
-
-*Architecting autonomous systems & eliminating digital friction through AI.*
-
----
-
-### 💻 About Me
-* 🔭 I’m currently building scalable **AI workflows** and intelligent automation pipelines.
-* 🤖 Passionate about turning repetitive manual processes into self-running systems.
-* 🛠️ **Tech Stack:** Python, Node.js, REST APIs, and LLM Integration.
-
----
-
-### 🌐 Connect With Me
-* **LinkedIn:** [nnemekanwokolo](https://linkedin.com/in/nnemekanwokolo)
-* **Facebook:** [Nnemeka Nwokolo](https://www.facebook.com/p/Nnemeka-Nwokolo-61595260564965)
+<img width="435" height="2268" alt="image" src="https://github.com/user-attachments/assets/662eb8bc-cb0c-46b7-bbd1-c4e3958e5551" />
